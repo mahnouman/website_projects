@@ -32,7 +32,7 @@ func main() {
 		fmt.Println(err)
 	}
 
-	fmt.Println("Successfully Opened ex.json")
+	fmt.Println("Successfully Opened info.json")
 	// defer the closing of our jsonFile so that we can parse it later on
 	defer jsonFile.Close()
 
