@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	// "golang"
 )
 
 // Websites struct which contains
