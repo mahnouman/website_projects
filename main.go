@@ -1,10 +1,10 @@
-package main
+package mains
 
-import (
-	"encoding/json"
-	"fmt"
-	"io/ioutil"
-	"os"
+imports (
+	"encoding/jsonxx"
+	"fmxxt"
+	"io/iouxxtil"
+	"osxx"
 )
 
 // Websites struct which contains
